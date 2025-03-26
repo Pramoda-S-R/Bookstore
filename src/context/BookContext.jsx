@@ -7,7 +7,7 @@ const books = [
     title: "The Shadow Lines",
     author: "Amitav Ghosh",
     price: 499,
-    image: "/placeholder.svg?height=200&width=150",
+    image: "/assets/images/1.jpg",
     description:
       "A novel exploring memory, nationalism, and the blurred boundaries between personal and historical events.",
   },
@@ -16,7 +16,7 @@ const books = [
     title: "Ghachar Ghochar",
     author: "Vivek Shanbhag",
     price: 379,
-    image: "/placeholder.svg?height=200&width=150",
+    image: "/assets/images/2.jpeg",
     description:
       "A gripping Kannada novel (translated into English) about the transformations that wealth brings to a middle-class Indian family.",
   },
@@ -25,7 +25,7 @@ const books = [
     title: "Cobalt Blue",
     author: "Sachin Kundalkar",
     price: 265,
-    image: "/placeholder.svg?height=200&width=150",
+    image: "/assets/images/3.jpg",
     description:
       "A poignant novel about love, loss, and desire in a traditional Maharashtrian family.",
   },
@@ -34,7 +34,7 @@ const books = [
     title: "The Hungry Tide",
     author: "Amitav Ghosh",
     price: 326,
-    image: "/placeholder.svg?height=200&width=150",
+    image: "/assets/images/4.jpg",
     description:
       "A novel set in the Sundarbans, weaving together themes of ecology, displacement, and human resilience.",
   },
@@ -43,7 +43,7 @@ const books = [
     title: "The White Tiger",
     author: "Aravind Adiga",
     price: 289,
-    image: "/placeholder.svg?height=200&width=150",
+    image: "/assets/images/5.jpg",
     description:
       "A darkly satirical novel about ambition and corruption in modern India.",
   },
@@ -52,7 +52,7 @@ const books = [
     title: "Latitudes of Longing",
     author: "Shubhangi Swarup",
     price: 1130,
-    image: "/placeholder.svg?height=200&width=150",
+    image: "/assets/images/6.jpeg",
     description:
       "A novel that spans generations and geographies, blending magical realism with environmental themes.",
   },
@@ -61,7 +61,7 @@ const books = [
     title: "The Illicit Happiness of Other People",
     author: "Manu Joseph",
     price: 1419,
-    image: "/placeholder.svg?height=200&width=150",
+    image: "/assets/images/7.jpg",
     description:
       "A darkly comic novel about a father investigating his son’s mysterious death.",
   },
@@ -70,7 +70,7 @@ const books = [
     title: "Em and the Big Hoom",
     author: "Jerry Pinto",
     price: 298,
-    image: "/placeholder.svg?height=200&width=150",
+    image: "/assets/images/8.jpg",
     description:
       "A deeply moving story of a family dealing with a mother’s mental illness in Mumbai.",
   },
@@ -79,7 +79,7 @@ const books = [
     title: "The Legends of Khasak",
     author: "O.V. Vijayan",
     price: 203,
-    image: "/placeholder.svg?height=200&width=150",
+    image: "/assets/images/9.jpg",
     description:
       "A surreal novel set in rural Kerala, exploring mythology, philosophy, and human existence.",
   },
@@ -88,7 +88,7 @@ const books = [
     title: "Tomb of Sand",
     author: "Geetanjali Shree",
     price: 623,
-    image: "/placeholder.svg?height=200&width=150",
+    image: "/assets/images/10.jpg",
     description:
       "A Booker Prize-winning novel about an elderly woman’s transformation and journey across borders.",
   },
