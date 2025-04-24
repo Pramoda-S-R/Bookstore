@@ -23,7 +23,7 @@ function App() {
         </main>
         <section>
           <div className="flex w-full justify-center container mx-auto px-4 py-8">
-            <p>Made by Nithin P. Copyright © 2025 Book Store. All rights reserved</p>
+            <p>Made by Nithin P and Gaurav Das. Copyright © 2025 Book Store. All rights reserved</p>
           </div>
         </section>
       </div>
